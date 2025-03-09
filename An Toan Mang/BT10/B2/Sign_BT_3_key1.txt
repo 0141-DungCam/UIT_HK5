@@ -1,0 +1,2 @@
+Signature:       “İ²e·ñÉúªD×ï·^&‚Éƒ#’"ö%;HÿğÌIn\m·¬Å£–^tC¸ıœ†™9µÅ,ëv¹o–VSU¤)Œ\|ı¥ÆÓ20£<–êj¼hÛŞjø
+wí5i·c1Éø]KïWCZáØ¾„ŞwX³c2¸½Cìê6                                Signature length:  1024                            Algorithm:      RSA                             Hash function:   MD2                             Key:      [Tang][Cam][RSA-1024][1731999123]                               Message:      The signed message is in this file:        C:\Users\ADMIN\AppData\Local\Temp\cry88.org
