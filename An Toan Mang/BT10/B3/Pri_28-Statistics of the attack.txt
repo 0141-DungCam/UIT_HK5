@@ -1,0 +1,29 @@
+Partial MD2-Collision Search
+
+Filename original: C:\Users\ADMIN\Desktop\An toan mang\B10\BT_4.txt
+Filename fake: C:\Users\ADMIN\Desktop\An toan mang\B10\BT_5.txt
+
+PROJECTED EFFORTS
+
+Calculating time:  0 year(s), 0 day(s), 0 hour(s), 0 minute(s) und 4.02 second(s)
+Steps required
+
+
+COMPUTING EFFORTS
+
+Calculating time:  0 year(s), 0 day(s), 0 hour(s), 0 minute(s) und 4.41 second(s)
+Steps required
+Hash operations performed
+
+RunNo.     Steps until collision     Check of the collision     Total steps
+
+   01                      19,750                         3,300                   23,050
+   02                      10,724                         7,866                   18,590
+   03                      27,390                        26,347                   53,737
+
+
+
+TEXT MODIFICATION
+
+16 bytes were added to the harmless message.
+16 bytes were added to the dangerous message.
